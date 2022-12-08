@@ -5,5 +5,6 @@ import { day4 } from "./day4/day4.js";
 import { day5 } from "./day5/day5.js";
 import { day6 } from "./day6/day6.js";
 import { day7 } from "./day7/day7.js";
+import { day8 } from "./day8/day8.js";
 
-day7();
+day8();
